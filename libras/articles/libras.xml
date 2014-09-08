@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <form>
 	<fields name="attribs">
-		<fieldset name="date" label="Libras">
+		<fieldset name="video" label="Libras">
 			<field name="video" type="text" label="Vídeo" />
 		</fieldset>
 	</fields>
