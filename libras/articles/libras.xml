@@ -2,7 +2,7 @@
 <form>
 	<fields name="attribs">
 		<fieldset name="video" label="Libras">
-			<field name="video" type="text" label="Vídeo" />
+			<field name="video" type="text" label="Id do Vídeo" />
 		</fieldset>
 	</fields>
 </form>	
