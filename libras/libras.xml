@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.7" type="plugin" group="content">
+	<name>plg_content_libras</name>
+	<author>Cesar Velame</author>
+	<creationDate>2014</creationDate>
+	<copyright></copyright>
+	<license></license>
+	<authorEmail>cesarvelame@gmail.com</authorEmail>
+	<authorUrl>www.cesarvelame.com</authorUrl>
+	<version>1.0</version>
+	<description>Libras</description>
+	<files>
+		<filename plugin="libras">libras.php</filename>
+	</files>
+	<languages>
+	</languages>
+	<config>
+		<fields name="params">
+
+		</fields>
+	</config>
+</extension>
